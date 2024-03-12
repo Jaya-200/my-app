@@ -1,1 +1,1 @@
-# my-app
+# App.js
